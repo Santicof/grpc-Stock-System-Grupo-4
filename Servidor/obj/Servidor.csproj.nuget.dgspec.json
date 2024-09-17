@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Universidad\\2024\\1er cuatrimestre\\2do cuatrimestre\\Desarrollo de Software en Sistemas Distribuidos\\TP\\Proyecto\\Servidor\\Servidor.csproj": {}
+    "E:\\UNLA\\4to año\\Distribuidos\\TPGrupalGrupo4\\grpc-Stock-System-Grupo-4\\Servidor\\Servidor.csproj": {}
   },
   "projects": {
-    "D:\\Universidad\\2024\\1er cuatrimestre\\2do cuatrimestre\\Desarrollo de Software en Sistemas Distribuidos\\TP\\Proyecto\\Servidor\\Servidor.csproj": {
+    "E:\\UNLA\\4to año\\Distribuidos\\TPGrupalGrupo4\\grpc-Stock-System-Grupo-4\\Servidor\\Servidor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Universidad\\2024\\1er cuatrimestre\\2do cuatrimestre\\Desarrollo de Software en Sistemas Distribuidos\\TP\\Proyecto\\Servidor\\Servidor.csproj",
+        "projectUniqueName": "E:\\UNLA\\4to año\\Distribuidos\\TPGrupalGrupo4\\grpc-Stock-System-Grupo-4\\Servidor\\Servidor.csproj",
         "projectName": "Servidor",
-        "projectPath": "D:\\Universidad\\2024\\1er cuatrimestre\\2do cuatrimestre\\Desarrollo de Software en Sistemas Distribuidos\\TP\\Proyecto\\Servidor\\Servidor.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Universidad\\2024\\1er cuatrimestre\\2do cuatrimestre\\Desarrollo de Software en Sistemas Distribuidos\\TP\\Proyecto\\Servidor\\obj\\",
+        "projectPath": "E:\\UNLA\\4to año\\Distribuidos\\TPGrupalGrupo4\\grpc-Stock-System-Grupo-4\\Servidor\\Servidor.csproj",
+        "packagesPath": "C:\\Users\\Santiago\\.nuget\\packages\\",
+        "outputPath": "E:\\UNLA\\4to año\\Distribuidos\\TPGrupalGrupo4\\grpc-Stock-System-Grupo-4\\Servidor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Santiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
