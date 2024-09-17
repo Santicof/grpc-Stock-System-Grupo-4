@@ -1,8 +1,9 @@
-﻿namespace Servidor.Infrastructure
+﻿using Servidor.Infrastructure.Entities;
+
+namespace Servidor.Infrastructure.Dtos
 {
-    public class Usuario
+    public class UsuarioDto
     {
-        public int Id { get; set; }
         public string NombreDeUsuario { get; set; }
         public string Password { get; set; }
         public Tienda Tienda { get; set; }

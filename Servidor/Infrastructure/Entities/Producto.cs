@@ -1,4 +1,4 @@
-﻿namespace Servidor.Infrastructure
+﻿namespace Servidor.Infrastructure.Entities
 {
     public class Producto
     {
