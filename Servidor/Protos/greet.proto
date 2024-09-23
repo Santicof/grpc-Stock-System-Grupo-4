@@ -11,9 +11,23 @@ service Greeter {
 }
 
 // The request message containing the user's name.
-message HelloRequest {
-  string name = 1;
+message Usuario {
+  string Nombre = 1;
+  string Apellido = 2;
+  string NombreDeUsuario = 3;
+  string Passoword = 4;
+  bool Deshabilitado = 5;
+  Tienda tienda = 6;
 }
+
+message Tienda {
+  string NombreTienda = 1;
+  string Direccion = 2;
+  string Provincia = 3;
+  bool Deshabilitado = 4;
+  string Codigo = 5;
+}
+
 
 // The response message containing the greetings.
 message HelloReply {
